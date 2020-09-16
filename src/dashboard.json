@@ -1,5 +1,6 @@
 [
 	{
+		"type": "facebook",
 		"user": "@byRedHunter",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-facebook_pfbre0.svg",
 		"followers": 1987,
@@ -7,6 +8,7 @@
 		"amount": "12"
 	},
 	{
+		"type": "twitter",
 		"user": "@byRedHunter",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-twitter_znj47l.svg",
 		"followers": 1044,
@@ -14,6 +16,7 @@
 		"amount": "12"
 	},
 	{
+		"type": "instagram",
 		"user": "@byRedHunter",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-instagram_k0crvo.svg",
 		"followers": 11548,
@@ -21,6 +24,7 @@
 		"amount": "1099"
 	},
 	{
+		"type": "youtube",
 		"user": "Jhonny Quispe",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-youtube_t6iouz.svg",
 		"followers": 8239,

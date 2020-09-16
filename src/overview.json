@@ -1,5 +1,6 @@
 [
 	{
+		"type": "facebook",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-facebook_pfbre0.svg",
 		"viewsStatus": "increase",
 		"viewsAmount": 87,
@@ -7,6 +8,7 @@
 		"likesAmount": 52
 	},
 	{
+		"type": "instagram",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-instagram_k0crvo.svg",
 		"viewsStatus": "increase",
 		"viewsAmount": 52052,
@@ -14,6 +16,7 @@
 		"likesAmount": 5462
 	},
 	{
+		"type": "twitter",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-twitter_znj47l.svg",
 		"viewsStatus": "increase",
 		"viewsAmount": 117,
@@ -21,6 +24,7 @@
 		"likesAmount": 507
 	},
 	{
+		"type": "youtube",
 		"icono": "https://res.cloudinary.com/byredhunter/image/upload/v1600291080/icon-youtube_t6iouz.svg",
 		"viewsStatus": "decrease",
 		"viewsAmount": 1407,
